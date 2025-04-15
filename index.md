@@ -3,3 +3,7 @@
 ```java
   public static void main(String[] Args)
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
